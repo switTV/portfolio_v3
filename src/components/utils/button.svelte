@@ -30,5 +30,6 @@
 <!-- markup (zero or more items) goes here -->
 
 <div class="Button_section">
+    
     <a href="{direction_button}" style="width: {width_button}px;">{text_button}</a>
 </div>
