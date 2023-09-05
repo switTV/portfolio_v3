@@ -57,7 +57,6 @@
         width: 80vw;
     }
 
-<<<<<<< HEAD
     :global(h2) {
         font-family: "Montserrat";
         color: #1768ac;
@@ -74,6 +73,4 @@
         }
 
     }
-=======
->>>>>>> 77d1bc5058e2c1a8d6efa520dc2b79092205807c
 </style>
