@@ -122,6 +122,7 @@
         <div class="Hero-left-section-text">
             <h2>Máximo</h2>
             <p>Desarrollador Frontend</p>
+            
         </div>
     </div>
     <div class="Hero-right-section">
